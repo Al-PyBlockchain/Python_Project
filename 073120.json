@@ -1,0 +1,44 @@
+[
+    {
+        "La criptovaluta con il volume maggiore (in $) delle ultime 24 ore": {
+            "USDT": 29338252290.6538
+        }
+    },
+    {
+        "Le migliori e peggiori 10 criptovalute (per incremento in percentuale delle ultime 24 ore)": {
+            "Le 10 migliori": {
+                "HYN": 4.99744,
+                "ETH": 5.77269,
+                "BAND": 5.77632,
+                "DIVI": 6.29299,
+                "LINK": 7.29458,
+                "SNX": 7.76535,
+                "ANT": 9.58835,
+                "VET": 11.2012,
+                "FXC": 12.9958,
+                "BNT": 33.0488
+            },
+            "Le 10 peggiori": {
+                "ERD": -9.59324,
+                "LUNA": -6.85267,
+                "TMTG": -6.5149,
+                "RUNE": -6.24071,
+                "ABBC": -5.39647,
+                "AMPL": -4.51083,
+                "NEXO": -3.58877,
+                "QNT": -2.89025,
+                "ALGO": -2.43964,
+                "DX": -2.09497
+            }
+        }
+    },
+    {
+        "Quantita per acquistare una unita di ciascuna delle prime 20 criptovalute per capitalizzazione, in $": 12164.614112192101
+    },
+    {
+        "Quantita per acquistare una unita di ogni criptovaluta con capitalizzazione superiore a 76.000.000, in $": 12271.375965094701
+    },
+    {
+        "La percentuale di guadagno o perdita che avreste realizzato se aveste comprato una unita di ciascuna delle prime 20 criptovalute (per capitalizzazione) il giorno prima (ipotizzando classifica invariata)": 1.707118325557398
+    }
+]
